@@ -94,3 +94,10 @@ Feel free to submit a pull request to add more awesome tools!
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+---
+
+## 🧰 All-in-One Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based file tools: PDF (merge/split/compress/sign/OCR/redact/rotate/watermark/unlock), image (AI background removal, HEIC→JPG, resize, compress), video to GIF, QR codes, invoice generator. Files never uploaded — 100% local WebAssembly.
