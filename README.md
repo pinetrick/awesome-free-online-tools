@@ -94,3 +94,10 @@ Feel free to submit a pull request to add more awesome tools!
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+---
+
+## 🌐 All-in-One Online Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools for developers, designers, and everyone: PDF (merge/split/compress/sign/OCR/redact/rotate/watermark/unlock), image (AI bg removal, HEIC→JPG, resize, WebP), video to GIF, QR codes, invoices, JSON formatter, Base64, UUID, JWT decoder, hash generators, regex tester, password generator. Zero upload, works offline.
