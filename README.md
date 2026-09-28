@@ -71,6 +71,7 @@ A curated list of awesome free online tools for developers, designers, and every
 | Tool | Description | Link |
 |------|-------------|------|
 | **Image Compressor** | Compress JPEG, PNG, WebP images in browser — no upload, 100% private. Adjust quality, resize and download. | [imgcompress.aitinytools.com](https://imgcompress.aitinytools.com) |
+| **File Converter** | Free browser-based image and PDF conversion (HEIC/WebP/PNG/JPG + image↔PDF); processing stays on the device with no upload or account. | [fileontap.com](https://fileontap.com/) |
 | **QR Code Generator** | Convert any text or URL into a QR code instantly. Customize size, error correction level and colors. | [qrcode.aitinytools.com](https://qrcode.aitinytools.com/) |
 
 ## Utilities
