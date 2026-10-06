@@ -77,6 +77,7 @@ A curated list of awesome free online tools for developers, designers, and every
 
 | Tool | Description | Link |
 |------|-------------|------|
+| **French Follower-Growth Calculator (Belgium)** | Calculate the required net follower difference and daily/weekly averages from a current count, target and days. Free, no signup; French interface. | [followersacheter.be](https://followersacheter.be/tools/follower-growth) |
 | **Unit Converter** | Convert length, mass, temperature, area, volume, speed, time, data storage, pressure, energy, power and angle units. | [unit.aitinytools.com](https://unit.aitinytools.com) |
 
 ## Driving Test
