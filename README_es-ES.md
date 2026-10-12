@@ -78,6 +78,7 @@ Una lista curada de herramientas en línea gratuitas para desarrolladores, dise�
 | Herramienta | Descripción | Enlace |
 |-------------|-------------|--------|
 | **Convertidor de Unidades** | Convierta longitud, masa, temperatura, área, volumen, velocidad, tiempo, datos, presión, energía, potencia y ángulo. | [unit.aitinytools.com](https://unit.aitinytools.com) |
+| **QuietTake Noise Remover** | Reducción local de ruido en grabaciones de voz con RNNoise en el navegador, comparación del audio original y procesado y exportación WAV de 48 kHz y 16 bits; gratis, sin registro ni envío de audio a servidores, con un máximo de 50 MB y cinco minutos por archivo. | [noiseremover.site](https://noiseremover.site/) |
 
 ## Examen de Conducir
 

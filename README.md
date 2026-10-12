@@ -78,6 +78,7 @@ A curated list of awesome free online tools for developers, designers, and every
 | Tool | Description | Link |
 |------|-------------|------|
 | **Unit Converter** | Convert length, mass, temperature, area, volume, speed, time, data storage, pressure, energy, power and angle units. | [unit.aitinytools.com](https://unit.aitinytools.com) |
+| **QuietTake Noise Remover** | Free browser-local RNNoise speech noise reduction with original/cleaned playback and 48 kHz 16-bit WAV export; no signup or audio upload, limited to 50 MB and five minutes per file. | [noiseremover.site](https://noiseremover.site/) |
 
 ## Driving Test
 

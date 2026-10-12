@@ -78,6 +78,7 @@
 | 工具 | 描述 | 链接 |
 |------|------|------|
 | **单位换算** | 支持长度、质量、温度、面积、体积、速度、时间、数据、压力、能量、功率、角度等12大类单位的实时换算。 | [unit.aitinytools.com](https://unit.aitinytools.com) |
+| **QuietTake Noise Remover** | 在浏览器本地使用 RNNoise 减少语音录音中的噪声，支持原音与处理结果对比，并导出 48 kHz、16-bit WAV；免费，无需注册或上传音频，每个文件限 50 MB 且不超过五分钟。 | [noiseremover.site](https://noiseremover.site/) |
 
 ## 驾考题库
 
