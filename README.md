@@ -70,6 +70,7 @@ A curated list of awesome free online tools for developers, designers, and every
 
 | Tool | Description | Link |
 |------|-------------|------|
+| **ASCII Images** | Free browser-based image-to-ASCII conversion with text downloads and no account required. | [ascii-images.com](https://ascii-images.com/image-to-ascii) |
 | **Image Compressor** | Compress JPEG, PNG, WebP images in browser — no upload, 100% private. Adjust quality, resize and download. | [imgcompress.aitinytools.com](https://imgcompress.aitinytools.com) |
 | **QR Code Generator** | Convert any text or URL into a QR code instantly. Customize size, error correction level and colors. | [qrcode.aitinytools.com](https://qrcode.aitinytools.com/) |
 
