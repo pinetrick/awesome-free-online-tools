@@ -78,6 +78,7 @@ A curated list of awesome free online tools for developers, designers, and every
 | Tool | Description | Link |
 |------|-------------|------|
 | **Unit Converter** | Convert length, mass, temperature, area, volume, speed, time, data storage, pressure, energy, power and angle units. | [unit.aitinytools.com](https://unit.aitinytools.com) |
+| **StagePeek** | Interactive 3D concert and stadium seat view previewer across 201 venues — preview your first seat free in browser without signup. | [stagepeek.live](https://stagepeek.live) |
 
 ## Driving Test
 
